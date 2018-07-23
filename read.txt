@@ -1,0 +1,9 @@
+winform窗体控件
+
+1.安装
+Infragistics_WinForms_20152
+
+key：922312006774732426
+
+2.安装
+Infragistics_WinForms_20152.2023_SR
